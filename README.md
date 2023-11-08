@@ -8,3 +8,8 @@ The goal of this project is to correctly detect vehicles and persons on a traffi
 
 <img width="430" alt="detectron2-logo" src="https://github.com/pcfabre/VehicleDetection/assets/60671219/19f9f40a-ad8d-4043-9d1b-cae24220f3e7">
 
+To initiate the repository, run the following shell commands:
+
+pip install -r requirements.txt
+git clone https://github.com/facebookresearch/detectron2.git
+python3 -m pip install -e detectron2
